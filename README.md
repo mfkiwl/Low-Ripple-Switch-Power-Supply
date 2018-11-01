@@ -1,5 +1,5 @@
 # Low-Ripple-Switch-Power-Supply
-DEMO : Design of 220VAC-3.3VDC Light Load and Low Ripple (10mV) Switching Power Supply
+DEMO : Design of 220VAC-3.3VDC Light Load and Low Ripple (10mV) Switching Power Supply. This design is based on LNK623.
 
 # Ripple Waveform
 <img src="https://github.com/zslwyuan/Low-Ripple-Switch-Power-Supply/blob/master/10mv_ripple.jpg" width="800"> 
