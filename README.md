@@ -20,4 +20,4 @@ DEMO : Design of 220VAC-3.3VDC Light Load and Low Ripple (10mV) Switching Power 
 
 
 # Report
-<img src="https://github.com/zslwyuan/Low-Ripple-Switch-Power-Supply/blob/master/Report_in_Chinese.jpg.jpg" width="800"> 
+<img src="https://github.com/zslwyuan/Low-Ripple-Switch-Power-Supply/blob/master/Report_in_Chinese.jpg" width="800"> 
